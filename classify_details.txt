@@ -1,0 +1,20 @@
+Classify.py:
+NMean Accuracy report : 1.0
+Classification report :               precision    recall  f1-score   support
+
+           0       0.83      1.00      0.91       103
+           1       1.00      0.55      0.71        47
+
+   micro avg       0.86      0.86      0.86       150
+   macro avg       0.92      0.78      0.81       150
+weighted avg       0.88      0.86      0.85       150
+
+Confusion Matrix : [[103   0]
+ [ 21  26]]
+Accuracy of the MODEL : 0.86
+Predicted Labels : ['0' '0' '0' ... '0' '0' '0']
+Total Predicted Labels : 2000
+Positive Number of Instances : 70
+Negative Number of Instances : 1930
+Positive Instance Example : i think that i just feel like a young man i m so young i m the youngest person i am a young vibrant man actual words spoken by trump
+Negative Instance Example : i see trump has taught you well very fine people on both sides except that he was defending white nationalists amp neo nazis ok by you sorry but we reject your false equivalence how many trump associates have pleaded guilty to crimes
