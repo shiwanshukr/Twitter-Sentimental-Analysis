@@ -6,7 +6,7 @@
 ❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂❂
 
 I HAVE COLLECTED TWO DATA SETS:
-1. USED FOR CLASSIFICATION ON THE BASIS OF SENTIMENTS [ cluster.py -----> press 1 ] 
+1. USED FOR CLASSIFICATION ON THE BASIS OF SENTIMENTS [ classify.py -----> press 1 ] 
 2. USED FOR CLUSTERING AND COMMUNITY DETECTION	[ cluster.py -----------> press 2 ]
 
 Remark :
