@@ -24,10 +24,10 @@ import itertools
 global max_id
 
 #==============================Twitter Tokens==========================#
-consumer_key= 'O062S27yXGUh5y1qtoY3SX6Mc'
-consumer_secret= '7GFZ7qjRujuLOiRMWTjeBkTX0iPrC9agRwrMobQUBT15HptyUF'
-access_token= '2723937392-wOjCn19YOotqPGjfbp2MGkzGtGIu9oBELpHNa5H'
-access_token_secret= 'gpaLAjMXmp4RbCx5AYDVqNwaZMEoPvmEznGyACfUvDbhB'
+consumer_key= 'XXXXXXXXXXXXXXXXXXX'
+consumer_secret= 'XXXXXXXXXXXXXXXXXXX'
+access_token= 'XXXXXXXXXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXX'
+access_token_secret= 'XXXXXXXXXXXXXXXXXXX'
 #======================================================================#
 
 
